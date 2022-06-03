@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A senior web engineer from Norway!</h3>
 
-- 🔭 I currently work at [MELON Inc.](https://melonverse.com)
+- 🔭 I currently work as a Technical Manager at [MELON Inc.](https://melonverse.com)
 
 - 🌱 I’m currently learning **Golang, Rust**
 
