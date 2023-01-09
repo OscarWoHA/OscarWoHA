@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A senior web engineer from Norway!</h3>
+<h3 align="center">A tech industry professional from Norway!</h3>
 
 - 🔭 I currently work as a Technical Manager at [MELON Inc.](https://melonverse.com)
 
