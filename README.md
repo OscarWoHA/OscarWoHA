@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A tech industry professional from Norway!</h3>
 
-- 🔭 I currently work as a Technical Manager at [MELON Inc.](https://melonverse.com)
+- 🔭 I am currently looking for work!
 
 - 🌱 I’m currently learning **Golang, Rust**
 
-- 💬 Ask me about **React, Firebase or other fullstack things!**
+- 💬 Ask me about **React, Firebase or other web development things!**
 
 - 📫 You can reach me on **oscar@halland.tech**
 
