@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Firebase or other web development things!**
 
-- 📫 You can reach me on **oscar@halland.tech** or [https://discord.com/users/120896895252955136](OscarWoHA#2654) (Discord)
+- 📫 You can reach me on **oscar@halland.tech** or [OscarWoHA#2654](https://discord.com/users/120896895252955136)
 
 - 📄 See my experience and add me to your network at [https://www.linkedin.com/in/oscarwoha/](https://www.linkedin.com/in/oscarwoha/)
 
