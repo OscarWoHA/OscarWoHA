@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A tech industry professional from Norway!</h3>
 
-- 🔭 I work at Frende Skadeforsikring AS 📈
+- 🔭 I work at [Frende Skadeforsikring AS](https://frende.no/) 📈
 
 - 🌱 I’m currently learning **Golang, Rust**
 
