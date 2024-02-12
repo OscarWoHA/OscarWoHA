@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React or other web development things! (I also know a thing or two about Roblox development)**
 
-- 📫 You can reach me on **oscar@halland.tech** or [OscarWoHA#2654](https://discord.com/users/120896895252955136)
+- 📫 You can reach me on **oscar@halland.tech**
 
 - 📄 See my experience and add me to your network at [https://www.linkedin.com/in/oscarwoha/](https://www.linkedin.com/in/oscarwoha/)
 
