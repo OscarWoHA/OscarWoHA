@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A tech industry professional from Norway!</h3>
 
-- 🔭 I work at [Frende Skadeforsikring AS](https://frende.no/) 📈
+- 🔭 I'm looking for gigs! 📈
 
-- 🌱 I’m currently learning **Golang, Rust**
+- 🌱 I’m currently invested in learning **about blockchain technology**
 
-- 💬 Ask me about **React, Firebase or other web development things!**
+- 💬 Ask me about **React or other web development things! (I also know a thing or two about Roblox development)**
 
 - 📫 You can reach me on **oscar@halland.tech** or [OscarWoHA#2654](https://discord.com/users/120896895252955136)
 
 - 📄 See my experience and add me to your network at [https://www.linkedin.com/in/oscarwoha/](https://www.linkedin.com/in/oscarwoha/)
 
-- ⚡ A fun fact: **I sing and play several instruments like piano and guitar.**
+- ⚡ A fun fact: **I was going to become a teacher but left for the tech field.**
 
 <h3 align="left">You can also connect with me on:</h3>
 <p align="left">
