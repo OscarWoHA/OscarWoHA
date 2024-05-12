@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A tech industry professional from Norway!</h3>
 
-- 🔭 I'm looking for gigs! 📈
+- 🔭 I currently manage people at @kartacreative! 📈
 
-- 🌱 I’m currently invested in learning **about blockchain technology**
+- 🌱 I’m currently invested in mastering **the art of managing effective teams**
 
-- 💬 Ask me about **React or other web development things! (I also know a thing or two about Roblox development)**
+- 💬 Ask me about **game-development, React and the metaverse advertising industry**
 
 - 📫 You can reach me on **oscar@halland.tech**
 
