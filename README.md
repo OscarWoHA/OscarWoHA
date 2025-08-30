@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A tech industry professional from Norway!</h3>
 
-- 🔭 I'm the CEO of [https://github.com/paralov](Paralov)! 📈
+- 🔭 I'm the CEO of [Paralov](https://github.com/paralov)! 📈
 
 - 🌱 I’m currently invested in mastering **the art of managing effective teams**
 
